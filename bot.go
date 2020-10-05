@@ -41,7 +41,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 const (
